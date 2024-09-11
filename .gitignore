@@ -1,6 +1,6 @@
 assets
 views
-db
+db/filebased
 client
 file.db
 go.mod
