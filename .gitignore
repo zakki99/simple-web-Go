@@ -2,3 +2,7 @@ assets
 views
 db
 client
+file.db
+go.mod
+go.sum
+main_test.go
